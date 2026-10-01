@@ -1,18 +1,18 @@
 ---
-title: CycleRest Privacy Policy
+title: Eastlight Privacy Policy
 ---
 
-# Privacy Policy for CycleRest
+# Privacy Policy for Eastlight
 
 **Last updated: 1 October 2026**
 
-CycleRest is a sleep-cycle alarm and sleep-quality app for iPhone. This policy explains what
+Eastlight is a sleep-cycle alarm and sleep-quality app for iPhone. This policy explains what
 the app does with your data. The short version: your sleep data stays on your iPhone.
 
-## What CycleRest stores, and where
+## What Eastlight stores, and where
 
-Everything CycleRest records is stored **locally on your device**, in the app's own storage
-and the app group it shares with its widget. There is no CycleRest account, no server, and no
+Everything Eastlight records is stored **locally on your device**, in the app's own storage
+and the app group it shares with its widget. There is no Eastlight account, no server, and no
 upload of your sleep data.
 
 | Data | Where it comes from | Where it lives |
@@ -24,24 +24,24 @@ upload of your sleep data.
 | Supplement reminder settings and intake log | You | On your device only |
 | Approximate location | Your device, only if you enable sunrise alignment | Used in memory to calculate sunrise, then discarded — never stored or transmitted |
 
-Deleting CycleRest deletes all of it.
+Deleting Eastlight deletes all of it.
 
 ## Apple Health
 
-CycleRest requests **read-only** access to sleep analysis data in Apple Health. It never
+Eastlight requests **read-only** access to sleep analysis data in Apple Health. It never
 writes to Health and never reads any other data type. Health data is not used for
 advertising or shared with anyone. You can revoke access at any time in Settings › Health ›
-Data Access & Devices; CycleRest keeps working without it, minus the dashboard.
+Data Access & Devices; Eastlight keeps working without it, minus the dashboard.
 
 ## Location
 
-If you choose to align your wake time with sunrise, CycleRest asks for location while the
+If you choose to align your wake time with sunrise, Eastlight asks for location while the
 app is in use. The coordinates are used on your device to calculate local sunrise and are
 not stored, logged, or sent anywhere.
 
 ## Microphone
 
-CycleRest uses the microphone only while you are recording a custom wake-up sound, and only
+Eastlight uses the microphone only while you are recording a custom wake-up sound, and only
 after you tap record. It never listens while you sleep. Recordings stay on your device.
 
 ## What we do not do
@@ -52,7 +52,7 @@ after you tap record. It never listens while you sleep. Recordings stay on your 
 
 ## Subscriptions
 
-CycleRest+ subscriptions are processed by **Apple** and managed through
+Eastlight+ subscriptions are processed by **Apple** and managed through
 [RevenueCat](https://www.revenuecat.com/privacy), which handles purchase validation and
 subscription status. RevenueCat receives a pseudonymous app-user identifier and purchase
 details — never your sleep data. Apple's handling of your payment information is governed
@@ -60,11 +60,11 @@ by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
 ## Children
 
-CycleRest is not directed at children under 13 and does not knowingly collect data from them.
+Eastlight is not directed at children under 13 and does not knowingly collect data from them.
 
 ## Not a medical device
 
-CycleRest supports general wellness. It is not a medical device, and it does not diagnose,
+Eastlight supports general wellness. It is not a medical device, and it does not diagnose,
 treat, cure, or prevent any condition. Talk to a qualified clinician about sleep problems.
 
 ## Changes
