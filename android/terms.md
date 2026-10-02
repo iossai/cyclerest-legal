@@ -1,12 +1,12 @@
 ---
-title: Eastlight Terms of Use
+title: Shio Terms of Use
 ---
 
-# Terms of Use for Eastlight
+# Terms of Use for Shio
 
 **Last updated: 27 September 2026**
 
-By installing or using Eastlight ("the app"), you agree to these terms.
+By installing or using Shio ("the app"), you agree to these terms.
 
 ## Licence
 
@@ -15,7 +15,7 @@ devices you own or control, for personal, non-commercial use.
 
 ## Not medical advice
 
-Eastlight is a general wellness tool. It is **not a medical device**. Its sleep scores,
+Shio is a general wellness tool. It is **not a medical device**. Its sleep scores,
 cycle-length estimates, sleep-need baseline and "cycle debt" figures are estimates derived
 from data your phone or watch recorded, using published population averages and heuristics
 that the app documents in-product. They are not a diagnosis and must not be used as a
@@ -24,15 +24,15 @@ concern, consult a qualified clinician.
 
 ## Alarms
 
-Eastlight schedules alarms using Android's system alarm APIs. While we take care to make
+Shio schedules alarms using Android's system alarm APIs. While we take care to make
 alarms reliable, we cannot guarantee that an alarm will sound in every circumstance —
 device power state, battery optimisation, manufacturer-specific power management, Do Not
 Disturb settings, hardware faults, and the device being switched off can all prevent it.
-**Do not rely on Eastlight as your only alarm for anything critical.**
+**Do not rely on Shio as your only alarm for anything critical.**
 
-## Subscriptions (Eastlight+)
+## Subscriptions (Shio+)
 
-Eastlight+ is an auto-renewing subscription sold through Google Play.
+Shio+ is an auto-renewing subscription sold through Google Play.
 
 - Payment is charged to your Google Play account at confirmation of purchase.
 - The subscription renews automatically unless cancelled at least 24 hours before the end
@@ -43,7 +43,7 @@ Eastlight+ is an auto-renewing subscription sold through Google Play.
 - Any free trial period is forfeited when you purchase a subscription, where applicable.
 - Refunds are handled by Google Play under its refund policy.
 
-Features included in Eastlight+ may change over time as the app develops.
+Features included in Shio+ may change over time as the app develops.
 
 ## Acceptable use
 
