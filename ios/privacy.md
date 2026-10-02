@@ -4,7 +4,7 @@ title: Shio Privacy Policy
 
 # Privacy Policy for Shio
 
-**Last updated: 1 October 2026**
+**Last updated: 2 October 2026**
 
 Shio is a sleep-cycle alarm and sleep-quality app for iPhone. This policy explains what
 the app does with your data. The short version: your sleep data stays on your iPhone.
@@ -20,7 +20,6 @@ upload of your sleep data.
 | Sleep sessions and stages | Apple Health, read-only, with your permission | On your device only |
 | Sleep scores, cycle length, sleep-need and debt figures | Calculated on your device from the above | On your device only |
 | Alarms you create | You | On your device only |
-| Wake-up sounds you record | Your microphone, only while you tap record | On your device only |
 | Supplement reminder settings and intake log | You | On your device only |
 | Approximate location | Your device, only if you enable sunrise alignment | Used in memory to calculate sunrise, then discarded — never stored or transmitted |
 
@@ -39,16 +38,12 @@ If you choose to align your wake time with sunrise, Shio asks for location while
 app is in use. The coordinates are used on your device to calculate local sunrise and are
 not stored, logged, or sent anywhere.
 
-## Microphone
-
-Shio uses the microphone only while you are recording a custom wake-up sound, and only
-after you tap record. It never listens while you sleep. Recordings stay on your device.
-
 ## What we do not do
 
 - We do not collect, transmit, sell, or share your sleep or health data.
 - We do not use advertising or analytics SDKs.
 - We do not track you across apps or websites.
+- Shio does not use your microphone.
 
 ## Subscriptions
 
