@@ -4,3 +4,5 @@
 - Android: [Privacy Policy](android/privacy) · [Terms of Use](android/terms)
 
 Contact: goutham2iosdev@gmail.com
+
+Help: [Support & FAQ](support)
