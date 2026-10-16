@@ -4,7 +4,7 @@ title: Shio Privacy Policy
 
 # Privacy Policy for Shio
 
-**Last updated: 2 October 2026**
+**Last updated: 16 October 2026**
 
 Shio is a sleep-cycle alarm and sleep-quality app for iPhone. This policy explains what
 the app does with your data. The short version: your sleep data stays on your iPhone.
@@ -47,11 +47,11 @@ not stored, logged, or sent anywhere.
 
 ## Subscriptions
 
-Shio+ subscriptions are processed by **Apple** and managed through
-[RevenueCat](https://www.revenuecat.com/privacy), which handles purchase validation and
-subscription status. RevenueCat receives a pseudonymous app-user identifier and purchase
-details — never your sleep data. Apple's handling of your payment information is governed
-by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
+Shio+ subscriptions are sold, processed and managed entirely by **Apple** through the
+App Store. Shio checks your subscription status with Apple on your iPhone; we never see
+your name, Apple Account or payment details, and no purchase data is sent to us or to any
+third party. Apple's handling of your payment information is governed by
+[Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
 ## Children
 
